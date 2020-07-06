@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="746b80f2-0a6b-422b-a3ac-48f33fc0b9e1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eJ8BFZ1PmOSFcxfms1wnVnTT89" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="C:/Dev/unity-resource-aggregator" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.mrc.exercises" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.mrc.exercises" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Lesson1Test">
+    <configuration name="Lesson1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mrcExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mrc.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.mrc.exercises" />
+      <option name="MAIN_CLASS_NAME" value="org.mrc.exercises.Lesson1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson1Test.should_return_100_when_salaries_are_present" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mrcExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mrc.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.mrc.exercises" />
+      <option name="MAIN_CLASS_NAME" value="org.mrc.exercises.Lesson1Test" />
+      <option name="METHOD_NAME" value="should_return_100_when_salaries_are_present" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson1Test.should_throw_exception_when_salaries_are_null" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mrcExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mrc.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.mrc.exercises" />
+      <option name="MAIN_CLASS_NAME" value="org.mrc.exercises.Lesson1Test" />
+      <option name="METHOD_NAME" value="should_throw_exception_when_salaries_are_null" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson1Test.testRobot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mrcExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mrc.exercises.Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.mrc.exercises" />
+      <option name="MAIN_CLASS_NAME" value="org.mrc.exercises.Lesson1Test" />
+      <option name="METHOD_NAME" value="testRobot" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Lesson1Test" />
+        <item itemvalue="JUnit.Lesson1Test.should_return_100_when_salaries_are_present" />
+        <item itemvalue="JUnit.Lesson1Test.should_throw_exception_when_salaries_are_null" />
+        <item itemvalue="JUnit.Lesson1Test.testRobot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="746b80f2-0a6b-422b-a3ac-48f33fc0b9e1" name="Default Changelist" comment="" />
+      <created>1594028197370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594028197370</updated>
+      <workItem from="1594028199564" duration="3178000" />
+      <workItem from="1594046995003" duration="2884000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1526" y="-882" key="#Project_Structure" timestamp="1594030378693">
+      <screen x="654" y="-1080" width="2560" height="1080" />
+    </state>
+    <state x="1526" y="-882" key="#Project_Structure/0.0.1536.834/654.-1080.2560.1080@654.-1080.2560.1080" timestamp="1594030378693" />
+    <state x="1739" y="-839" key="#com.intellij.ide.util.MemberChooser" timestamp="1594052129727">
+      <screen x="654" y="-1080" width="2560" height="1080" />
+    </state>
+    <state x="1739" y="-839" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/654.-1080.2560.1080@654.-1080.2560.1080" timestamp="1594052129727" />
+    <state x="1714" y="-785" key="FileChooserDialogImpl" timestamp="1594033056526">
+      <screen x="654" y="-1080" width="2560" height="1080" />
+    </state>
+    <state x="1714" y="-785" key="FileChooserDialogImpl/0.0.1536.834/654.-1080.2560.1080@654.-1080.2560.1080" timestamp="1594033056526" />
+    <state width="2517" height="287" key="GridCell.Tab.0.bottom" timestamp="1594052229759">
+      <screen x="654" y="-1080" width="2560" height="1080" />
+    </state>
+    <state width="2517" height="287" key="GridCell.Tab.0.bottom/0.0.1536.834/654.-1080.2560.1080@654.-1080.2560.1080" timestamp="1594052229759" />
+    <state width="2517" height="287" key="GridCell.Tab.0.center" timestamp="1594052229759">
+      <screen x="654" y="-1080" width="2560" height="1080" />
+    </state>
+    <state width="2517" height="287" key="GridCell.Tab.0.center/0.0.1536.834/654.-1080.2560.1080@654.-1080.2560.1080" timestamp="1594052229759" />
+    <state width="2517" height="287" key="GridCell.Tab.0.left" timestamp="1594052229759">
+      <screen x="654" y="-1080" width="2560" height="1080" />
+    </state>
+    <state width="2517" height="287" key="GridCell.Tab.0.left/0.0.1536.834/654.-1080.2560.1080@654.-1080.2560.1080" timestamp="1594052229759" />
+    <state width="2517" height="287" key="GridCell.Tab.0.right" timestamp="1594052229759">
+      <screen x="654" y="-1080" width="2560" height="1080" />
+    </state>
+    <state width="2517" height="287" key="GridCell.Tab.0.right/0.0.1536.834/654.-1080.2560.1080@654.-1080.2560.1080" timestamp="1594052229759" />
+    <state width="2517" height="354" key="GridCell.Tab.1.bottom" timestamp="1594047755255">
+      <screen x="654" y="-1080" width="2560" height="1080" />
+    </state>
+    <state width="2517" height="354" key="GridCell.Tab.1.bottom/0.0.1536.834/654.-1080.2560.1080@654.-1080.2560.1080" timestamp="1594047755255" />
+    <state width="2517" height="354" key="GridCell.Tab.1.center" timestamp="1594047755255">
+      <screen x="654" y="-1080" width="2560" height="1080" />
+    </state>
+    <state width="2517" height="354" key="GridCell.Tab.1.center/0.0.1536.834/654.-1080.2560.1080@654.-1080.2560.1080" timestamp="1594047755255" />
+    <state width="2517" height="354" key="GridCell.Tab.1.left" timestamp="1594047755255">
+      <screen x="654" y="-1080" width="2560" height="1080" />
+    </state>
+    <state width="2517" height="354" key="GridCell.Tab.1.left/0.0.1536.834/654.-1080.2560.1080@654.-1080.2560.1080" timestamp="1594047755255" />
+    <state width="2517" height="354" key="GridCell.Tab.1.right" timestamp="1594047755255">
+      <screen x="654" y="-1080" width="2560" height="1080" />
+    </state>
+    <state width="2517" height="354" key="GridCell.Tab.1.right/0.0.1536.834/654.-1080.2560.1080@654.-1080.2560.1080" timestamp="1594047755255" />
+    <state x="1435" y="-898" key="SettingsEditor" timestamp="1594047445761">
+      <screen x="654" y="-1080" width="2560" height="1080" />
+    </state>
+    <state x="1435" y="-898" key="SettingsEditor/0.0.1536.834/654.-1080.2560.1080@654.-1080.2560.1080" timestamp="1594047445761" />
+    <state x="1705" y="-822" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1594030387619">
+      <screen x="654" y="-1080" width="2560" height="1080" />
+    </state>
+    <state x="1705" y="-822" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.834/654.-1080.2560.1080@654.-1080.2560.1080" timestamp="1594030387619" />
+    <state x="1597" y="-845" width="672" height="678" key="search.everywhere.popup" timestamp="1594047941677">
+      <screen x="654" y="-1080" width="2560" height="1080" />
+    </state>
+    <state x="1597" y="-845" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/654.-1080.2560.1080@654.-1080.2560.1080" timestamp="1594047941677" />
+  </component>
+</project>
