@@ -8,8 +8,8 @@ import java.util.List;
 public class Lesson1 {
     /**
      * 1. Sa se calculeze suma tuturor salariilor primite si sa returneze suma daca totul este in regula
-     * daca lista de salarii este mai mica de 4 sa se arunce exceptia SalariesListIsTooSmall
-     * daca altceva nu e in regula sa se prinda exceptia respectiva si sa se arunce exceptia IllegalArgumentException
+     * daca lista de salarii este mai mica de 4 sa se arunce exceptia SalariesListIsTooSmallException
+     * sa se faca si alte verificari si sa se arunce IllegalArgumentException (verificari de tipul de defencive programming)
      */
     public int getTotalSalaries(List<Integer> salaries) {
      return 0;
